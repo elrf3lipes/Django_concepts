@@ -1,5 +1,3 @@
-# My Django Projects
-
 ## Projects
 
 ### 1. Django_API
