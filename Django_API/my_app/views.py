@@ -2,6 +2,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 from .models import Todo
+from rest_framework.permissions import IsAuthenticated
 
 
 class TodoView(APIView):
@@ -20,3 +21,10 @@ class TodoView(APIView):
 View inherits the API view class from the django rest framework
 This class has two functions: post and get, in the parameter we gave it a request object
 '''
+
+
+class ProtectedView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        return Response({'message': 'This is a protected view'})
