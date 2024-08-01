@@ -21,7 +21,7 @@ A full-featured blogging platform built with Django, featuring user authenticati
 - Tagging and categorization of posts
 
 ### 3. import-export
-A project designed to handle the import and export of data in various formats, making it easier to integrate with other systems.
+A small CRM project that handles the import and export of data in many formats with admin integration for CRUD operations.
 
 #### Key Features:
 - Import data from CSV, Excel, and other formats
