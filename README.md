@@ -112,4 +112,4 @@ A compact CRM project for handling data import and export in multiple formats, f
 
 ## License
 
-This is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This is licensed under the MIT License - see the LICENSE for details.
