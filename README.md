@@ -43,7 +43,7 @@ A robust Django project leveraging Django's REST framework to build and deploy a
 
   ---
 
-### 2. Django_blog
+# Django_blog
 A full-featured blogging platform built with Django, featuring user authentication, comment sections, and content management.
 
 #### Key Features:
