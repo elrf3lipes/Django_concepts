@@ -1,6 +1,6 @@
 ## Projects
 
-# Django_API
+# 1.Django_API
 
 A robust Django project leveraging Django's REST framework to build and deploy a secure API. This project provides comprehensive endpoints for CRUD operations, user authentication, and advanced features, all containerized for streamlined deployment.
 
@@ -43,7 +43,7 @@ A robust Django project leveraging Django's REST framework to build and deploy a
 
   ---
 
-# Django_blog
+# 2.Django_blog
 A full-featured blogging platform built with Django, featuring user authentication, comment sections, and content management.
 
 #### Key Features:
@@ -56,7 +56,7 @@ Here’s a concise README.md description for your **import-export** project, sui
 
  ---
 
-# Import-Export CRM
+# 3.Django_CRM
 
 A compact CRM project for handling data import and export in multiple formats, featuring seamless integration with Django admin for CRUD operations.
 
