@@ -1,13 +1,14 @@
 ## Projects
 
 ### 1. Django_API
-This project focuses on building a robust API using Django's REST framework. It provides endpoints for various CRUD operations and implements authentication and authorization mechanisms.
+This project focuses on building a robust API using Django's REST framework. It provides endpoints for various CRUD operations and implements authentication and authorization mechanisms. Containerization using docker.
 
 #### Key Features:
 - RESTful API endpoints
 - Token-based authentication
 - CRUD operations for resources
 - Pagination and filtering
+- Containerization
 
 ### 2. Django_blog
 A full-featured blogging platform built with Django, featuring user authentication, comment sections, and content management.
